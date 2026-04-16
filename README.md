@@ -20,4 +20,4 @@ Mostly Developing Android
 * **The Discipline Loop:** Training for a marathon (Building up from 5k).
 
 ---
-[LinkedIn](https://www.linkedin.com/in/amin-bahiraee-75b4ab52/) |
+[LinkedIn](https://www.linkedin.com/in/amin-bahiraee-75b4ab52/) 
